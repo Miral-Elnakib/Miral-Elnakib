@@ -11,6 +11,6 @@
 
 I’m a data scientist and analyst driven by a love for **machine learning** and **data science**. I wield Python, TensorFlow, and a knack for insights to uncover stories in data and build a smarter world—stay tuned for my creations!
 
-- 🎓 MSc in AI @ Alexandria University
-- 🔍 Exploring **AI, ML, and Data Analysis**
-- 💬 Ask me about **Data Science or Python**
+- 🎓 MSc in Computer Science @ Alexandria University
+- 🔍 Exploring **AI, ML, DL , and Data Analysis**
+- 💬 Ask me about **Data Science and Python**
