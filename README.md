@@ -7,7 +7,7 @@
   <a href="https://facebook.com/[your-facebook-handle]"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/miralehnakib7/miralehnakib7/blob/main/profile-img.png" align="right" width="25%"/>
+<img src="C:\Users\Miral Elnakib\Desktop\cdc1b6f1-9268-4793-8dc4-a92c0aa0064f.webp"/>
 
 I’m a data scientist and analyst driven by a love for **machine learning** and **data science**. I wield Python, TensorFlow, and a knack for insights to uncover stories in data and build a smarter world—stay tuned for my creations!
 
