@@ -1,52 +1,14 @@
-![Header Image](your-image-url)
+# Hi, I'm Miral 👋
 
-# 👋 Welcome to My GitHub!
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-link)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
 
-## 🌟 Miral Metwally | Data Scientist & AI Enthusiast
+I'm a **master’s student in AI** at Alexandria University with a passion for **data science, machine learning, and deep learning**. I enjoy working with **Python, TensorFlow, PyTorch, and SQL** to analyze data and build AI-powered solutions.
 
-🎓 **Master's Student in AI** at Alexandria University  
-💡 Passionate about **Data Science, Business Intelligence & Machine Learning**  
-📊 Exploring **Big Data Analytics & AI-Driven Insights**  
-🖥️ Focused on **Data Visualization, Predictive Modeling & Deep Learning**  
-
----
-
-## 📊 Data Science in Action
-**"Turning raw data into powerful insights!"** 📈✨
-
-<img src="your-image-url" width="400px" align="right" alt="Anime Data Scientist Girl with Hijab">
-
----
-
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-
----
-
-## 📂 Featured Projects
-📊 **[Customer Segmentation using Machine Learning](https://github.com/yourrepo)**  
-📈 **[Sales Forecasting with Time Series Analysis](https://github.com/yourrepo)**  
-🔍 **[AI-Powered Data Insights Dashboard](https://github.com/yourrepo)**  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-
----
-
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)  
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourprofile)  
-
----
-
-📊 *"Data is the new oil, and I'm here to refine it!"* 🚀
+- 🎓 Currently pursuing my **Master's in AI** at Alexandria University
+- 📚 Researching **deep learning applications in sign language recognition**
+- 🔬 Interested in **computer vision, NLP, and data-driven insights**
+- 💡 Open to collaborations in **AI research and data science projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, and Data Science**
