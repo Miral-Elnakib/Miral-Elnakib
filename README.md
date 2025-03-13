@@ -2,36 +2,37 @@
 
 # 👋 Welcome to My GitHub!
 
-## 🌟 Miral Metwally | AI Enthusiast & Programmer
+## 🌟 Miral Metwally | Data Scientist & AI Enthusiast
 
 🎓 **Master's Student in AI** at Alexandria University  
-💡 Passionate about **Deep Learning, Business Intelligence & Computer Vision**  
-🚀 Researcher in **Arabic Sign Language Recognition**  
-🖥️ Exploring **AI, Data Science & Software Development**  
+💡 Passionate about **Data Science, Business Intelligence & Machine Learning**  
+📊 Exploring **Big Data Analytics & AI-Driven Insights**  
+🖥️ Focused on **Data Visualization, Predictive Modeling & Deep Learning**  
 
 ---
 
-## 🎨 Anime-Inspired Vibes
-**"Coding is like magic, and I love being a digital sorcerer!"** ✨
+## 📊 Data Science in Action
+**"Turning raw data into powerful insights!"** 📈✨
 
-<img src="your-image-url" width="400px" align="right" alt="Anime Programmer Girl with Hijab">
+<img src="your-image-url" width="400px" align="right" alt="Anime Data Scientist Girl with Hijab">
 
 ---
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-🔬 **[Arabic Sign Language Recognition](https://github.com/yourrepo)**  
-📊 **[AI-Powered Business Intelligence Dashboard](https://github.com/yourrepo)**  
-🤖 **[Deep Learning-Based Image Classification](https://github.com/yourrepo)**  
+📊 **[Customer Segmentation using Machine Learning](https://github.com/yourrepo)**  
+📈 **[Sales Forecasting with Time Series Analysis](https://github.com/yourrepo)**  
+🔍 **[AI-Powered Data Insights Dashboard](https://github.com/yourrepo)**  
 
 ---
 
@@ -48,4 +49,4 @@
 
 ---
 
-🌟 *"Keep learning, keep coding, and keep dreaming!"* 🚀
+📊 *"Data is the new oil, and I'm here to refine it!"* 🚀
