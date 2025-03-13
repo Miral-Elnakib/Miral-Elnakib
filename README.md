@@ -1,53 +1,43 @@
-# Hey, I’m Miral Elnakib! 👋
+# 👋 Hello, I'm Miral Metwally!  
+### 🚀 AI Enthusiast | Master's Student | Tech Explorer  
 
-Welcome to my digital lab! I’m an Artificial Intelligence graduate from Alexandria, Egypt, with a passion for turning data into insights and code into solutions. I thrive at the intersection of **machine learning**, **data science**, and **robotics**, and I’m always exploring ways to push the boundaries of AI innovation.
-
-Currently pursuing my **MSc in AI** at Alexandria University and fueled by endless curiosity!
-
----
-
-### 🌟 What I’m Working On
-- **[Egyptian Sign Language to Text](https://github.com/miralehnakib7/esl-translation)**: My graduation project—translating Egyptian Sign Language into text with 85% accuracy using CNNs and RNNs.
-- **[Music Genre Classification](https://github.com/miralehnakib7/music-genre-classifier)**: A CNN+RNN model hitting 95% accuracy on 10k tracks.
-- Contributing to open-source AI tools and dreaming up my next big idea!
+🎓 **Master's Student in AI** at Alexandria University  
+🧠 Passionate about **Deep Learning & Computer Vision**  
+📊 Exploring **Business Intelligence & Data Science**  
+🔬 Researcher in **Arabic Sign Language Recognition**  
 
 ---
 
-### 🛠️ My Toolbox
-- **Languages**: Python, C
-- **AI/ML**: TensorFlow, Keras, PyTorch, Scikit-learn
-- **Data Viz**: Pandas, NumPy, Matplotlib, Seaborn, Tableau
-- **Computer Vision**: OpenCV, YOLO
-- **Databases**: MySQL, MongoDB, Neo4j
-- **Cloud**: AWS
+## 🔧 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
-![Miral's Stats](https://github-readme-stats.vercel.app/api?username=miralehnakib7&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miralehnakib7&layout=compact&theme=midnight-purple)
+## 📂 Featured Projects  
+🔬 **[Arabic Sign Language Recognition using VGG16](https://github.com/yourrepo)**  
+📊 **[Business Intelligence Dashboard](https://github.com/yourrepo)**  
+🤖 **[AI-Powered Chatbot](https://github.com/yourrepo)**  
 
 ---
 
-### ✨ Fun Fact
-I once built a **Raspberry Pi cocktail machine** that mixes drinks with 98% accuracy—because who says AI can’t party? 🍹
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
 
 ---
 
-### 🏆 Highlights
-- **Published**: ["Enhancing Arabic Alphabet Sign Language Recognition"](https://ieeexplore.ieee.org/document/10566400) at ICEENG 2024.
-- **Certified**: AWS Machine Learning, Google, IBM, and more.
-- **Led**: Vice President of the AI Student Union, managing 2,000+ students.
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)  
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourprofile)  
 
 ---
 
-### 📬 Let’s Connect
-- Email: [miralehnakib7@gmail.com](mailto:miralehnakib7@gmail.com)
-- LinkedIn: [miral-elnakib](https://linkedin.com/in/miral-elnakib)
-- Twitter: [@miralehnakib](https://twitter.com/miralehnakib) *(Add if you have one!)*
+💡 *"Exploring AI, one model at a time!"*  
 
-*"AI isn’t just code—it’s a bridge to a smarter world."* – Me, probably
-
----
-
-![AI Vibes](https://media.giphy.com/media/L4TWWJttB5nI8aW3rS/giphy.gif) <!-- A cool AI-related GIF -->
